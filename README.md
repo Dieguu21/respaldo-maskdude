@@ -1,4 +1,6 @@
 # MaskDude: Fruit Collecter
+![imagen-letra-grande-con-titulo](https://github.com/Dieguu21/respaldo-maskdude/blob/2065ce13bb2dae87ecad87ef90f1596a9b520119/readme-imgs/Imagen1.png)\
+![imagen-letra-grande-con-subtitulo](https://github.com/Dieguu21/respaldo-maskdude/blob/2065ce13bb2dae87ecad87ef90f1596a9b520119/readme-imgs/Imagen2.png)
 
 Este es un respaldo de mi proyecto personal de videojuego MaskDude. Lo desarrollé en Unity (con JetBrains Rider como entorno de trabajo).
 
